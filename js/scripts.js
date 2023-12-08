@@ -35,5 +35,3 @@ let playRound = () => {
     } 
     else console.log(winnerStatement);
 }
-
-playGame();
